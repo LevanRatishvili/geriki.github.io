@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Geriki AutoPoster</title>
+</head>
+<body>
+  <h1>Geriki AutoPoster</h1>
+  <p>
+    Web-based automation tool for editing and publishing videos to TikTok
+    using official TikTok APIs and user authorization.
+  </p>
+
+  <a href="terms.html">Terms of Service</a><br>
+  <a href="privacy.html">Privacy Policy</a>
+</body>
+</html>
